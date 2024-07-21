@@ -1,0 +1,659 @@
+{
+    "charts": {},
+    "test": {},
+    "premium": {
+        "clusterissuer": {
+            "app_readme": "<p>Certificate management for Kubernetes</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/premium/clusterissuer\">https://truecharts.org/charts/premium/clusterissuer</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
+            "categories": [
+                "core"
+            ],
+            "description": "Certificate management for Kubernetes",
+            "healthy": true,
+            "healthy_error": null,
+            "home": "https://truecharts.org/charts/premium/clusterissuer",
+            "location": "/home/runner/_work/catalog/catalog/premium/clusterissuer",
+            "latest_version": "8.0.12",
+            "latest_app_version": "latest",
+            "latest_human_version": "latest_8.0.12",
+            "last_update": "2024-05-29 12:35:14",
+            "name": "clusterissuer",
+            "recommended": false,
+            "title": "Clusterissuer",
+            "maintainers": [
+                {
+                    "name": "TrueCharts",
+                    "email": "info@truecharts.org",
+                    "url": "https://truecharts.org"
+                }
+            ],
+            "tags": [],
+            "screenshots": [],
+            "sources": [
+                "https://cert-manager.io/",
+                "https://github.com/truecharts/charts/tree/master/charts/premium/clusterissuer",
+                "https://hub.docker.com/_/hello-world"
+            ],
+            "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/clusterissuer.webp"
+        },
+        "custom-app": {
+            "app_readme": "<p>Advanced tool to create your own TrueCharts-based Charts</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/premium/custom-app\">https://truecharts.org/charts/premium/custom-app</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
+            "categories": [
+                "custom"
+            ],
+            "description": "Advanced tool to create your own TrueCharts-based Charts",
+            "healthy": true,
+            "healthy_error": null,
+            "home": "https://truecharts.org/charts/premium/custom-app",
+            "location": "/home/runner/_work/catalog/catalog/premium/custom-app",
+            "latest_version": "13.0.8",
+            "latest_app_version": "0.21.1155",
+            "latest_human_version": "0.21.1155_13.0.8",
+            "last_update": "2024-05-29 12:35:14",
+            "name": "custom-app",
+            "recommended": false,
+            "title": "Custom-app",
+            "maintainers": [
+                {
+                    "name": "TrueCharts",
+                    "email": "info@truecharts.org",
+                    "url": "https://truecharts.org"
+                }
+            ],
+            "tags": [],
+            "screenshots": [],
+            "sources": [
+                "https://ghcr.io/linuxserver/jackett",
+                "https://github.com/truecharts/charts/tree/master/charts/premium/custom-app"
+            ],
+            "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/custom-app.webp"
+        },
+        "nextcloud": {
+            "app_readme": "<p>A private cloud server that puts the control and security of your own data back into your hands.</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/premium/nextcloud\">https://truecharts.org/charts/premium/nextcloud</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
+            "categories": [
+                "cloud"
+            ],
+            "description": "A private cloud server that puts the control and security of your own data back into your hands.",
+            "healthy": true,
+            "healthy_error": null,
+            "home": "https://truecharts.org/charts/premium/nextcloud",
+            "location": "/home/runner/_work/catalog/catalog/premium/nextcloud",
+            "latest_version": "30.1.24",
+            "latest_app_version": "29.0.0",
+            "latest_human_version": "29.0.0_30.1.24",
+            "last_update": "2024-05-29 12:35:14",
+            "name": "nextcloud",
+            "recommended": false,
+            "title": "Nextcloud",
+            "maintainers": [
+                {
+                    "name": "TrueCharts",
+                    "email": "info@truecharts.org",
+                    "url": "https://truecharts.org"
+                }
+            ],
+            "tags": [],
+            "screenshots": [],
+            "sources": [
+                "https://github.com/nextcloud/docker",
+                "https://github.com/nextcloud/helm",
+                "https://github.com/truecharts/charts/tree/master/charts/premium/nextcloud",
+                "https://github.com/truecharts/containers/tree/master/apps/nextcloud-fpm",
+                "https://github.com/truecharts/containers/tree/master/apps/nextcloud-imaginary",
+                "https://github.com/truecharts/containers/tree/master/apps/nextcloud-push-notify",
+                "https://hub.docker.com/r/clamav/clamav",
+                "https://hub.docker.com/r/collabora/code",
+                "https://hub.docker.com/r/nginxinc/nginx-unprivileged"
+            ],
+            "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/nextcloud.webp"
+        },
+        "prometheus": {
+            "app_readme": "<p>kube-prometheus-stack collects Kubernetes manifests, Grafana dashboards, and Prometheus rules combined with documentation and scripts to provide easy to operate end-to-end Kubernetes cluster monitoring with Prometheus using the Prometheus Operator.</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/premium/prometheus\">https://truecharts.org/charts/premium/prometheus</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
+            "categories": [
+                "metrics"
+            ],
+            "description": "kube-prometheus-stack collects Kubernetes manifests, Grafana dashboards, and Prometheus rules combined with documentation and scripts to provide easy to operate end-to-end Kubernetes cluster monitoring with Prometheus using the Prometheus Operator.",
+            "healthy": true,
+            "healthy_error": null,
+            "home": "https://truecharts.org/charts/premium/prometheus",
+            "location": "/home/runner/_work/catalog/catalog/premium/prometheus",
+            "latest_version": "18.2.9",
+            "latest_app_version": "2.52.0",
+            "latest_human_version": "2.52.0_18.2.9",
+            "last_update": "2024-05-29 12:35:14",
+            "name": "prometheus",
+            "recommended": false,
+            "title": "Prometheus",
+            "maintainers": [
+                {
+                    "name": "TrueCharts",
+                    "email": "info@truecharts.org",
+                    "url": "https://truecharts.org"
+                }
+            ],
+            "tags": [],
+            "screenshots": [],
+            "sources": [
+                "https://github.com/prometheus-community/helm-charts",
+                "https://github.com/prometheus-operator/kube-prometheus",
+                "https://github.com/truecharts/charts/tree/master/charts/premium/prometheus",
+                "https://hub.docker.com/r/bitnami/alertmanager",
+                "https://hub.docker.com/r/bitnami/prometheus",
+                "https://quay.io/thanos/thanos"
+            ],
+            "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/prometheus.webp"
+        },
+        "traefik": {
+            "app_readme": "<p>Traefik is a flexible reverse proxy and Ingress Provider.</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/premium/traefik\">https://truecharts.org/charts/premium/traefik</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
+            "categories": [
+                "network"
+            ],
+            "description": "Traefik is a flexible reverse proxy and Ingress Provider.",
+            "healthy": true,
+            "healthy_error": null,
+            "home": "https://truecharts.org/charts/premium/traefik",
+            "location": "/home/runner/_work/catalog/catalog/premium/traefik",
+            "latest_version": "27.0.14",
+            "latest_app_version": "2.11.2",
+            "latest_human_version": "2.11.2_27.0.14",
+            "last_update": "2024-05-29 12:35:14",
+            "name": "traefik",
+            "recommended": false,
+            "title": "Traefik",
+            "maintainers": [
+                {
+                    "name": "TrueCharts",
+                    "email": "info@truecharts.org",
+                    "url": "https://truecharts.org"
+                }
+            ],
+            "tags": [],
+            "screenshots": [],
+            "sources": [
+                "https://github.com/traefik/traefik",
+                "https://github.com/traefik/traefik-helm-chart",
+                "https://github.com/truecharts/charts/tree/master/charts/premium/traefik",
+                "https://github.com/truecharts/containers/tree/master/apps/traefik",
+                "https://traefik.io/"
+            ],
+            "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/traefik.webp"
+        }
+    },
+    "stable": {
+        "external-service": {
+            "app_readme": "<p>Allow external services to be used like Apps.</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/stable/external-service\">https://truecharts.org/charts/stable/external-service</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
+            "categories": [
+                "networking"
+            ],
+            "description": "Allow external services to be used like Apps.",
+            "healthy": true,
+            "healthy_error": null,
+            "home": "https://truecharts.org/charts/stable/external-service",
+            "location": "/home/runner/_work/catalog/catalog/stable/external-service",
+            "latest_version": "14.1.2",
+            "latest_app_version": "3.20.0",
+            "latest_human_version": "3.20.0_14.1.2",
+            "last_update": "2024-05-29 12:35:14",
+            "name": "external-service",
+            "recommended": false,
+            "title": "External-service",
+            "maintainers": [
+                {
+                    "name": "TrueCharts",
+                    "email": "info@truecharts.org",
+                    "url": "https://truecharts.org"
+                }
+            ],
+            "tags": [],
+            "screenshots": [],
+            "sources": [
+                "https://github.com/truecharts/charts/tree/master/charts/stable/external-service",
+                "https://hub.docker.com/_/alpine"
+            ],
+            "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/external-service.webp"
+        },
+        "jellyfin": {
+            "app_readme": "<p>Jellyfin is a Free Software Media System</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/stable/jellyfin\">https://truecharts.org/charts/stable/jellyfin</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
+            "categories": [
+                "media"
+            ],
+            "description": "Jellyfin is a Free Software Media System",
+            "healthy": true,
+            "healthy_error": null,
+            "home": "https://truecharts.org/charts/stable/jellyfin",
+            "location": "/home/runner/_work/catalog/catalog/stable/jellyfin",
+            "latest_version": "19.1.11",
+            "latest_app_version": "10.9.3",
+            "latest_human_version": "10.9.3_19.1.11",
+            "last_update": "2024-05-29 12:35:14",
+            "name": "jellyfin",
+            "recommended": false,
+            "title": "Jellyfin",
+            "maintainers": [
+                {
+                    "name": "TrueCharts",
+                    "email": "info@truecharts.org",
+                    "url": "https://truecharts.org"
+                }
+            ],
+            "tags": [],
+            "screenshots": [],
+            "sources": [
+                "https://ghcr.io/jellyfin/jellyfin",
+                "https://github.com/jellyfin/jellyfin",
+                "https://github.com/truecharts/charts/tree/master/charts/stable/jellyfin",
+                "https://hub.docker.com/r/alpine/socat"
+            ],
+            "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/jellyfin.webp"
+        },
+        "librespeed": {
+            "app_readme": "<p>Librespeed is a HTML5 webpage to test upload and download speeds</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/stable/librespeed\">https://truecharts.org/charts/stable/librespeed</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
+            "categories": [
+                "media"
+            ],
+            "description": "Librespeed is a HTML5 webpage to test upload and download speeds",
+            "healthy": true,
+            "healthy_error": null,
+            "home": "https://truecharts.org/charts/stable/librespeed",
+            "location": "/home/runner/_work/catalog/catalog/stable/librespeed",
+            "latest_version": "14.0.14",
+            "latest_app_version": "5.3.3",
+            "latest_human_version": "5.3.3_14.0.14",
+            "last_update": "2024-05-29 12:35:14",
+            "name": "librespeed",
+            "recommended": false,
+            "title": "Librespeed",
+            "maintainers": [
+                {
+                    "name": "TrueCharts",
+                    "email": "info@truecharts.org",
+                    "url": "https://truecharts.org"
+                }
+            ],
+            "tags": [],
+            "screenshots": [],
+            "sources": [
+                "https://ghcr.io/linuxserver/librespeed",
+                "https://github.com/librespeed/speedtest",
+                "https://github.com/truecharts/charts/tree/master/charts/stable/librespeed"
+            ],
+            "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/librespeed.webp"
+        },
+        "qbittorrent": {
+            "app_readme": "<p>qBittorrent is a cross-platform free and open-source BitTorrent client</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/stable/qbittorrent\">https://truecharts.org/charts/stable/qbittorrent</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
+            "categories": [
+                "media"
+            ],
+            "description": "qBittorrent is a cross-platform free and open-source BitTorrent client",
+            "healthy": true,
+            "healthy_error": null,
+            "home": "https://truecharts.org/charts/stable/qbittorrent",
+            "location": "/home/runner/_work/catalog/catalog/stable/qbittorrent",
+            "latest_version": "20.0.11",
+            "latest_app_version": "4.6.5",
+            "latest_human_version": "4.6.5_20.0.11",
+            "last_update": "2024-05-29 12:35:14",
+            "name": "qbittorrent",
+            "recommended": false,
+            "title": "Qbittorrent",
+            "maintainers": [
+                {
+                    "name": "TrueCharts",
+                    "email": "info@truecharts.org",
+                    "url": "https://truecharts.org"
+                }
+            ],
+            "tags": [],
+            "screenshots": [],
+            "sources": [
+                "https://ghcr.io/onedr0p/qbittorrent",
+                "https://github.com/qbittorrent/qBittorrent",
+                "https://github.com/truecharts/charts/tree/master/charts/stable/qbittorrent",
+                "https://hub.docker.com/r/mjmeli/qbittorrent-port-forward-gluetun-server"
+            ],
+            "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/qbittorrent.webp"
+        }
+    },
+    "system": {
+        "cert-manager": {
+            "app_readme": "<p>Cert-Manager is a kubernetes-aware certificate manager</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/system/cert-manager\">https://truecharts.org/charts/system/cert-manager</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
+            "categories": [
+                "operators"
+            ],
+            "description": "Cert-Manager is a kubernetes-aware certificate manager",
+            "healthy": true,
+            "healthy_error": null,
+            "home": "https://truecharts.org/charts/system/cert-manager",
+            "location": "/home/runner/_work/catalog/catalog/system/cert-manager",
+            "latest_version": "5.0.4",
+            "latest_app_version": "latest",
+            "latest_human_version": "latest_5.0.4",
+            "last_update": "2024-05-29 12:35:14",
+            "name": "cert-manager",
+            "recommended": false,
+            "title": "Cert-manager",
+            "maintainers": [
+                {
+                    "name": "TrueCharts",
+                    "email": "info@truecharts.org",
+                    "url": "https://truecharts.org"
+                }
+            ],
+            "tags": [],
+            "screenshots": [],
+            "sources": [
+                "https://cert-manager.io/",
+                "https://github.com/cert-manager",
+                "https://github.com/truecharts/charts/tree/master/charts/system/cert-manager",
+                "https://github.com/truecharts/containers/tree/master/apps/scratch"
+            ],
+            "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/cert-manager.webp"
+        },
+        "kubeapps": {
+            "app_readme": "<p>KubeApps is a Kubernetes-as-Apps solution</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/system/kubeapps\">https://truecharts.org/charts/system/kubeapps</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
+            "categories": [
+                "operators"
+            ],
+            "description": "KubeApps is a Kubernetes-as-Apps solution",
+            "healthy": true,
+            "healthy_error": null,
+            "home": "https://truecharts.org/charts/system/kubeapps",
+            "location": "/home/runner/_work/catalog/catalog/system/kubeapps",
+            "latest_version": "3.0.5",
+            "latest_app_version": "0.0.3",
+            "latest_human_version": "0.0.3_3.0.5",
+            "last_update": "2024-05-29 12:35:14",
+            "name": "kubeapps",
+            "recommended": false,
+            "title": "Kubeapps",
+            "maintainers": [
+                {
+                    "name": "TrueCharts",
+                    "email": "info@truecharts.org",
+                    "url": "https://truecharts.org"
+                }
+            ],
+            "tags": [],
+            "screenshots": [],
+            "sources": [
+                "https://cert-manager.io/",
+                "https://ghcr.io/xstar97/my-proxy-service",
+                "https://github.com/cert-manager",
+                "https://github.com/truecharts/charts/tree/master/charts/system/kubeapps"
+            ],
+            "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/kubeapps.webp"
+        },
+        "kubernetes-reflector": {
+            "app_readme": "<p>Kubernetes-Reflector is a Kubernetes addon designed to monitor and reflect changes to secrets and configmaps across namespaces</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/system/kubernetes-reflector\">https://truecharts.org/charts/system/kubernetes-reflector</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
+            "categories": [
+                "operators"
+            ],
+            "description": "Kubernetes-Reflector is a Kubernetes addon designed to monitor and reflect changes to secrets and configmaps across namespaces",
+            "healthy": true,
+            "healthy_error": null,
+            "home": "https://truecharts.org/charts/system/kubernetes-reflector",
+            "location": "/home/runner/_work/catalog/catalog/system/kubernetes-reflector",
+            "latest_version": "5.0.4",
+            "latest_app_version": "7.1.217",
+            "latest_human_version": "7.1.217_5.0.4",
+            "last_update": "2024-05-29 12:35:14",
+            "name": "kubernetes-reflector",
+            "recommended": false,
+            "title": "Kubernetes-reflector",
+            "maintainers": [
+                {
+                    "name": "TrueCharts",
+                    "email": "info@truecharts.org",
+                    "url": "https://truecharts.org"
+                }
+            ],
+            "tags": [],
+            "screenshots": [],
+            "sources": [
+                "https://github.com/emberstack/kubernetes-reflector",
+                "https://github.com/truecharts/charts/tree/master/charts/system/kubernetes-reflector",
+                "https://hub.docker.com/r/emberstack/kubernetes-reflector"
+            ],
+            "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/kubernetes-reflector.webp"
+        },
+        "openebs": {
+            "app_readme": "<p>OpenEBS is a umbrella chart for multiple container storage provisioners</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/system/openebs\">https://truecharts.org/charts/system/openebs</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
+            "categories": [
+                "CSI"
+            ],
+            "description": "OpenEBS is a umbrella chart for multiple container storage provisioners",
+            "healthy": true,
+            "healthy_error": null,
+            "home": "https://truecharts.org/charts/system/openebs",
+            "location": "/home/runner/_work/catalog/catalog/system/openebs",
+            "latest_version": "6.0.1",
+            "latest_app_version": "latest",
+            "latest_human_version": "latest_6.0.1",
+            "last_update": "2024-05-29 12:35:14",
+            "name": "openebs",
+            "recommended": false,
+            "title": "Openebs",
+            "maintainers": [
+                {
+                    "name": "TrueCharts",
+                    "email": "info@truecharts.org",
+                    "url": "https://truecharts.org"
+                }
+            ],
+            "tags": [],
+            "screenshots": [],
+            "sources": [
+                "https://cert-manager.io/",
+                "https://github.com/cert-manager",
+                "https://github.com/truecharts/charts/tree/master/charts/system/openebs",
+                "https://github.com/truecharts/containers/tree/master/apps/scratch"
+            ],
+            "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/openebs.webp"
+        },
+        "prometheus-operator": {
+            "app_readme": "<p>Prometheus Operator is an operator for prometheus</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/system/prometheus-operator\">https://truecharts.org/charts/system/prometheus-operator</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
+            "categories": [
+                "operators"
+            ],
+            "description": "Prometheus Operator is an operator for prometheus",
+            "healthy": true,
+            "healthy_error": null,
+            "home": "https://truecharts.org/charts/system/prometheus-operator",
+            "location": "/home/runner/_work/catalog/catalog/system/prometheus-operator",
+            "latest_version": "7.0.4",
+            "latest_app_version": "latest",
+            "latest_human_version": "latest_7.0.4",
+            "last_update": "2024-05-29 12:35:14",
+            "name": "prometheus-operator",
+            "recommended": false,
+            "title": "Prometheus-operator",
+            "maintainers": [
+                {
+                    "name": "TrueCharts",
+                    "email": "info@truecharts.org",
+                    "url": "https://truecharts.org"
+                }
+            ],
+            "tags": [],
+            "screenshots": [],
+            "sources": [
+                "https://github.com/prometheus-operator",
+                "https://github.com/truecharts/charts/tree/master/charts/system/prometheus-operator",
+                "https://github.com/truecharts/containers/tree/master/apps/alpine"
+            ],
+            "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/prometheus-operator.webp"
+        },
+        "snapshot-controller": {
+            "app_readme": "<p>Deploys a Snapshot Controller in a cluster. Snapshot Controllers are often bundled with the Kubernetes distribution,\nthis chart is meant for cases where it is not.\nAlso deploys the Snapshot Validation Webhook and configures your cluster to validate every <code>VolumeSnapshot</code> and\n<code>VolumeSnapshotContent</code> resource by sending it to the webhook.</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/system/snapshot-controller\">https://truecharts.org/charts/system/snapshot-controller</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
+            "categories": [
+                "network"
+            ],
+            "description": "Deploys a Snapshot Controller in a cluster. Snapshot Controllers are often bundled with the Kubernetes distribution,\nthis chart is meant for cases where it is not.\nAlso deploys the Snapshot Validation Webhook and configures your cluster to validate every `VolumeSnapshot` and\n`VolumeSnapshotContent` resource by sending it to the webhook.\n",
+            "healthy": true,
+            "healthy_error": null,
+            "home": "https://truecharts.org/charts/system/snapshot-controller",
+            "location": "/home/runner/_work/catalog/catalog/system/snapshot-controller",
+            "latest_version": "1.0.1",
+            "latest_app_version": "7.0.1",
+            "latest_human_version": "7.0.1_1.0.1",
+            "last_update": "2024-05-29 12:35:14",
+            "name": "snapshot-controller",
+            "recommended": false,
+            "title": "Snapshot-controller",
+            "maintainers": [
+                {
+                    "name": "TrueCharts",
+                    "email": "info@truecharts.org",
+                    "url": "https://truecharts.org"
+                }
+            ],
+            "tags": [],
+            "screenshots": [],
+            "sources": [
+                "https://github.com/snapshot-controller/snapshot-controller",
+                "https://github.com/snapshot-controller/snapshot-controller-helm-chart",
+                "https://github.com/kubernetes-csi/external-snapshotter/",
+                "https://github.com/truecharts/charts/tree/master/charts/system/snapshot-controller"
+            ],
+            "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/snapshot-controller.webp"
+        },
+        "traefik-crds": {
+            "app_readme": "<p>Traefik-CRDs contains the CRD's for Traefik</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/system/traefik-crds\">https://truecharts.org/charts/system/traefik-crds</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
+            "categories": [
+                "network"
+            ],
+            "description": "Traefik-CRDs contains the CRD's for Traefik",
+            "healthy": true,
+            "healthy_error": null,
+            "home": "https://truecharts.org/charts/system/traefik-crds",
+            "location": "/home/runner/_work/catalog/catalog/system/traefik-crds",
+            "latest_version": "2.0.4",
+            "latest_app_version": "latest",
+            "latest_human_version": "latest_2.0.4",
+            "last_update": "2024-05-29 12:35:14",
+            "name": "traefik-crds",
+            "recommended": false,
+            "title": "Traefik-crds",
+            "maintainers": [
+                {
+                    "name": "TrueCharts",
+                    "email": "info@truecharts.org",
+                    "url": "https://truecharts.org"
+                }
+            ],
+            "tags": [],
+            "screenshots": [],
+            "sources": [
+                "https://github.com/traefik/traefik",
+                "https://github.com/traefik/traefik-helm-chart",
+                "https://github.com/truecharts/charts/tree/master/charts/system/traefik-crds",
+                "https://github.com/truecharts/containers/tree/master/apps/scratch",
+                "https://traefik.io/"
+            ],
+            "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/traefik-crds.webp"
+        },
+        "velero": {
+            "app_readme": "<p>Velero is a kubernetes-native backup solution</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/system/velero\">https://truecharts.org/charts/system/velero</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
+            "categories": [
+                "operators"
+            ],
+            "description": "Velero is a kubernetes-native backup solution",
+            "healthy": true,
+            "healthy_error": null,
+            "home": "https://truecharts.org/charts/system/velero",
+            "location": "/home/runner/_work/catalog/catalog/system/velero",
+            "latest_version": "4.7.5",
+            "latest_app_version": "latest",
+            "latest_human_version": "latest_4.7.5",
+            "last_update": "2024-05-29 12:35:14",
+            "name": "velero",
+            "recommended": false,
+            "title": "Velero",
+            "maintainers": [
+                {
+                    "name": "TrueCharts",
+                    "email": "info@truecharts.org",
+                    "url": "https://truecharts.org"
+                }
+            ],
+            "tags": [],
+            "screenshots": [],
+            "sources": [
+                "https://cert-manager.io/",
+                "https://github.com/cert-manager",
+                "https://github.com/truecharts/charts/tree/master/charts/system/velero",
+                "https://github.com/truecharts/containers/tree/master/apps/alpine"
+            ],
+            "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/velero.png"
+        },
+        "volsync": {
+            "app_readme": "<p>volsync is a storage backup and synchronisation tool.</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/system/volsync\">https://truecharts.org/charts/system/volsync</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
+            "categories": [
+                "network"
+            ],
+            "description": "volsync is a storage backup and synchronisation tool.",
+            "healthy": true,
+            "healthy_error": null,
+            "home": "https://truecharts.org/charts/system/volsync",
+            "location": "/home/runner/_work/catalog/catalog/system/volsync",
+            "latest_version": "1.0.8",
+            "latest_app_version": "0.9.1",
+            "latest_human_version": "0.9.1_1.0.8",
+            "last_update": "2024-05-29 12:35:14",
+            "name": "volsync",
+            "recommended": false,
+            "title": "Volsync",
+            "maintainers": [
+                {
+                    "name": "TrueCharts",
+                    "email": "info@truecharts.org",
+                    "url": "https://truecharts.org"
+                }
+            ],
+            "tags": [],
+            "screenshots": [],
+            "sources": [
+                "https://github.com/truecharts/charts/tree/master/charts/system/volsync",
+                "https://github.com/volsync/volsync",
+                "https://github.com/volsync/volsync-helm-chart",
+                "https://quay.io/backube/volsync",
+                "https://quay.io/brancz/kube-rbac-proxy",
+                "https://volsync.readthedocs.io/"
+            ],
+            "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/volsync.webp"
+        },
+        "volumesnapshots": {
+            "app_readme": "<p>volumesnapshots contains the CRD's for Kubernetes Volume Snapshots</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/system/volumesnapshots\">https://truecharts.org/charts/system/volumesnapshots</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
+            "categories": [
+                "network"
+            ],
+            "description": "volumesnapshots contains the CRD's for Kubernetes Volume Snapshots",
+            "healthy": true,
+            "healthy_error": null,
+            "home": "https://truecharts.org/charts/system/volumesnapshots",
+            "location": "/home/runner/_work/catalog/catalog/system/volumesnapshots",
+            "latest_version": "2.0.3",
+            "latest_app_version": "latest",
+            "latest_human_version": "latest_2.0.3",
+            "last_update": "2024-05-29 12:35:14",
+            "name": "volumesnapshots",
+            "recommended": false,
+            "title": "Volumesnapshots",
+            "maintainers": [
+                {
+                    "name": "TrueCharts",
+                    "email": "info@truecharts.org",
+                    "url": "https://truecharts.org"
+                }
+            ],
+            "tags": [],
+            "screenshots": [],
+            "sources": [
+                "https://github.com/traefik/traefik",
+                "https://github.com/traefik/traefik-helm-chart",
+                "https://github.com/truecharts/charts/tree/master/charts/system/volumesnapshots",
+                "https://github.com/truecharts/containers/tree/master/apps/scratch"
+            ],
+            "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/volumesnapshots.webp"
+        }
+    }
+}
